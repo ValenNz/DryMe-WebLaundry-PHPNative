@@ -1,0 +1,2 @@
+RewriteEngine On
+    ErrorDocument 404 http://localhost:81/DryMe-WebLaundry/frontend/404.php
